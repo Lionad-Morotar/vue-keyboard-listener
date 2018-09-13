@@ -10,6 +10,10 @@
       </span>
     </div>
 
+    <div class="text-effect-info">
+      <span>Text Effect From `https://codepen.io/mallendeo/pen/vzddmE` By Mauricio Allende</span>
+    </div>
+
   </div>
 </template>
 
@@ -116,6 +120,15 @@ export default {
 .no-path-info {
   font-size: 10vh;
   color: #151515;
+}
+
+.text-effect-info {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  font-size: 12px;
+  text-align: center;
+  color: #454545;
 }
 
 @-webkit-keyframes glitch-effect {
