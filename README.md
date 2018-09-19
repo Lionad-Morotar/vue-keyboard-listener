@@ -1,5 +1,7 @@
 # vue-keyboard-listener
 
+![效果展示](https://i.imgur.com/tI1MrRW.gif)
+
 ## 项目说明
 
 这是一个使用VueJS混入(Vue Mixins)监听项目键盘事件的组件.
