@@ -1,5 +1,13 @@
 # vue-keyboard-listener
 
+> 只实现了Mixin混入效果, 如想制作Vue插件, 欢迎 Pull Request
+
+[≡项目地址≡](https://github.com/Lionad-Morotar/vue-keyboard-listener "≡项目地址≡")
+
+> 如果预览地址打不开, 说明服务器挂了... 那就Clone下来本地跑吧, 见下图
+
+[≡预览地址≡](https://github.com/Lionad-Morotar/vue-keyboard-listener "≡预览地址≡")
+
 ![效果展示](https://i.imgur.com/tI1MrRW.gif)
 
 ## 项目说明
