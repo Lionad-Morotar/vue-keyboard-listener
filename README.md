@@ -8,6 +8,8 @@
 
 [≡预览地址≡](https://github.com/Lionad-Morotar/vue-keyboard-listener "≡预览地址≡")
 
+> [点击预览](http://www.vue-keyboard-listener.mgear.club)
+
 ![效果展示](https://i.imgur.com/tI1MrRW.gif)
 
 ## 项目说明
